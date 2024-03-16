@@ -1,26 +1,5 @@
 [
     {
-        "name": "RitmoWorld",
-        "path": "online_kit_1002",
-        "coverUrl": "https://oliveiralabs.github.io/percussion-kits-premium/1002/cover.png",
-        "zipUrl": "https://oliveiralabs.github.io/percussion-kits-premium/1002/kit.percussion",
-        "version": "2"
-    },
-    {
-        "name": "BeatBox Pro",
-        "path": "online_kit_1003",
-        "coverUrl": "https://oliveiralabs.github.io/percussion-kits-premium/1003/cover.png",
-        "zipUrl": "https://oliveiralabs.github.io/percussion-kits-premium/1003/kit.percussion",
-        "version": "2"
-    },
-    {
-        "name": "GrooveMaster Kit",
-        "path": "online_kit_1004",
-        "coverUrl": "https://oliveiralabs.github.io/percussion-kits-premium/1004/cover.png",
-        "zipUrl": "https://oliveiralabs.github.io/percussion-kits-premium/1004/kit.percussion",
-        "version": "2"
-    },
-    {
         "name": "PercuSync Elite",
         "path": "online_kit_1005",
         "coverUrl": "https://oliveiralabs.github.io/percussion-kits-premium/1005/cover.png",
